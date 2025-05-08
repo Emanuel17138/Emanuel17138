@@ -44,7 +44,7 @@ Un proyecto en el que comparto mis juegos
 - Me gustan los juegos con buena historia y gráficos únicos.
 - Me gustaría en el futuro crear un videojuego indie.
 
-![Foto personal o avatar](yo_avatar.jpg)
+![Foto personal o avatar](yo_avatar.gif)
 
 ---
 
