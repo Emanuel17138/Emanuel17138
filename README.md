@@ -18,7 +18,7 @@ Soy estudiante apasionado por el aprendizaje, especialmente cuando se trata de v
 
 ## 📊 Estadísticas de GitHub
 
-![Emanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
+![Emanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emanuel17138&show_icons=true&theme=tokyonight)
 
 ---
 
