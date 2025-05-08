@@ -8,8 +8,8 @@ Soy estudiante apasionado por el aprendizaje, especialmente cuando se trata de v
 
 ## 🎯 Habilidades y Tecnologías
 
-- Lenguajes: Python, HTML, CSS (en proceso de aprendizaje)
-- Herramientas: VS Code, Git, Canva, Figma
+- Lenguajes: Python, HTML, C++ (en proceso de aprendizaje)
+- Herramientas: VS Code, Git, Canva
 - Intereses: Diseño de videojuegos, inteligencia artificial, mods
 
 ![Badge ejemplo](https://img.shields.io/badge/Estudiante%20Curioso-Aprendiendo%20cada%20día-blue)
@@ -25,22 +25,17 @@ Soy estudiante apasionado por el aprendizaje, especialmente cuando se trata de v
 ## 📂 Proyectos destacados
 
 ### Mapa interactivo de videojuegos favoritos
-Un proyecto en el que comparto mis juegos favoritos y lo que más me gusta de cada uno.
+Un proyecto en el que comparto mis juegos
 
 ![Proyecto videojuego](videojuego_proyecto.jpg)
-
-### Página web de presentación
-Una pequeña web hecha con HTML y CSS para practicar lo que voy aprendiendo.
-
-![Web personal](mi_web.jpg)
 
 ---
 
 ## 📬 Contacto y Redes Sociales
 
-- Correo: emanuel.tuemail@example.com
-- Discord: Emanuel#1234
-- Instagram: [@emanuel_dev](https://instagram.com/emanuel_dev)
+- Correo: memmared2017@gmail.com
+- Discord: temnmat
+- Instagram: [@emanuel_dev](https://instagram.com/t_menma_t)
 
 ---
 
@@ -48,7 +43,6 @@ Una pequeña web hecha con HTML y CSS para practicar lo que voy aprendiendo.
 
 - Me gustan los juegos con buena historia y gráficos únicos.
 - Me gustaría en el futuro crear un videojuego indie.
-- Este soy yo (o algo que me representa):
 
 ![Foto personal o avatar](yo_avatar.jpg)
 
