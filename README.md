@@ -3,7 +3,7 @@
 <img src="assets/banner.gif" width="100%" alt="Banner"/>
 
 <a href="https://github.com/Emanuel17138">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=D9A441&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Emanuel+%F0%9F%91%8B;Computer+Engineering+student+%40+TEC;IoT+%C2%B7+Data+%C2%B7+Distributed+systems;Currently+building+ConviTEC+%F0%9F%9A%A7" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=D9A441&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Emanuel+%F0%9F%91%8B;Computer+Engineering+student+%40+TEC;IoT+%C2%B7+Data+%C2%B7+Distributed+systems" alt="Typing SVG"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Emanuel17138&color=D9A441&style=flat-square&label=profile+views" alt="Profile views"/>
